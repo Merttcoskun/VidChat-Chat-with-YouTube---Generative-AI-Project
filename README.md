@@ -33,5 +33,5 @@ Query: Users ask questions, and the system retrieves transcript parts to answer.
 
 Response: AI generates answers using RAG.
 
-- Technologies:
-Streamlit, Langchain, Whisper, Google Gemini, Scrapetube, FAISS
+Technologies:
+- Streamlit, Langchain, Whisper, Google Gemini, Scrapetube, FAISS
